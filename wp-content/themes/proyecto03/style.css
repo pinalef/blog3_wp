@@ -1,0 +1,68 @@
+/*
+Theme Name: Social Watch
+Theme URI: www.socialwatch.cl
+Description: sitio web de Social Watch
+Version: 1.0
+Author: Pamela Inalef
+*/
+
+* {
+	outline: none;
+}
+
+.img-fluida{
+	width: 100%;
+	float: left;;
+}
+
+.img-fluida img{
+	min-width: 100%;
+	width: 100%;
+	max-width: 100%;
+	height: auto;
+}
+
+.linea{
+width: 80%;
+float: left;
+border-bottom: solid 2px #ccc;
+
+}
+
+.servicios-bienvenida{
+	background: url('images/imagen05b.jpg') 50% 0 no-repeat;
+	background-size: cover;
+	padding: 120px 0;
+	width: 100%;
+	float: left;
+}
+
+.socios{
+	background: #227093;
+	width: 100%;
+	float: left;
+	padding: 120px 0;
+
+}
+
+.somos-bienvenida{
+	background: #f7f1e3;
+	width: 100%;
+	float: left;
+	padding: 120px 0;
+}
+
+.footer01{
+	background: #2c2c54;
+	width: 100%;
+	float: left;
+	padding: 30px 0;
+}
+
+.footer02{
+	background: #474787;
+	width: 100%;
+	float: left;
+	padding: 30px 0;
+}
+
